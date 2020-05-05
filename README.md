@@ -1,0 +1,2 @@
+# Lerato
+A Retrieval based bot  that responds to basic question about Zindi Africa- using cosine similarity between words entered by the user and the words in the corpus. We 'll define a function response which searches the user’s utterance for one or more known keywords and returns one of several possible responses. If it doesn’t find the input matching any of the keywords, it returns a response:” I am so sorry! I dont understand your words"

@@ -1,11 +1,11 @@
-Zindi is the first data science competition platform in Africa and hosts an entire data science ecosystem of scientists, engineers, academics, companies, NGOs, governments and institutions focused on solving Africa’s most pressing problems,
+Zindi is the first data science competition platform in Africa and hosts an entire data science ecosystem of scientists, engineers, academics, companies, NGOs, governments and institutions focused on solving Africaâ€™s most pressing problems,
 
 For data scientists, from newbies to rock stars, Zindi is a place to access African datasets and solve African problems. Data scientists will find all the tools they need on Zindi to compete, share ideas, hone their skills, build their professional profiles, find career opportunities, and have fun!
 
 Who are we?
-Zindi is a social enterprise whose mission is to build the data science ecosystem in Africa and our vision is for a vibrant community of data scientists across Africa, mobilized towards solving the region’s most pressing problems.
+Zindi is a social enterprise whose mission is to build the data science ecosystem in Africa and our vision is for a vibrant community of data scientists across Africa, mobilized towards solving the regionâ€™s most pressing problems.
 
 We are a team of data scientists and creators based in Cape Town, Johannesburg, and Accra committed to a better Africa. The blog tab consist of series of latest news and tutorials to get you inolved and equipped in the fiel of data science and Artificial intelligence. To start a discussion, click the discussion icon then start discussion and a new discussion tab shows up kindly fill the topic, content and submit.
 
 Maximum number of individual in a team are 4, To earn some points be among the top 10 in a price or reward challenge.
-Maximum number of submissions are based on the challenge, kindly read instruction page
+Maximum number of submissions are based on the challenge, kindly read instruction page.
